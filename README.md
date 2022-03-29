@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @extradopesociety
 - 👀 I’m interested in building on the xrpl and tron ecosystem
-- 🌱 I’m currently learning swift and css
+- 🌱 I’m currently learning basic html/html5 and css through freecodecamp, & swift through playgrounds
 - 💞️ I’m looking to collaborate on new developements in the cryptospace
 - 📫 How to reach me extradopesociety@gmail.com
 
