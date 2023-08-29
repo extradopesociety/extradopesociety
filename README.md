@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @extradopesociety
-- 👀 I’m interested in building on the xrpl and flr ecosystem
-- 🌱 I’m currently learning basic html/html5 and css through freecodecamp, & swift through playgrounds
+- 👋 Hi, I’m @wartortleNFT
+- 👀 I’m interested in building in the xrpl ecosystem
+- 🌱 I’m currently learning basic JS through freecodecamp
 - 💞️ I’m looking to collaborate on new developements in the cryptospace
-- 📫 How to reach me extradopesociety@gmail.com
+- 📫 How to reach me support@jnkz.xyz
 
 <!---
 extradopesociety/extradopesociety is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
